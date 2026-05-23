@@ -3,50 +3,47 @@
 
 An open-source, dual-line, realist psychological thriller. A literary monument dedicated to the ordinary, law-abiding people who were left behind by grand narratives but pushed to the brink by zero-tolerance mechanisms.
 
-这是一个开源、双线叙事、写实主义的地缘政治心理悬疑小说项目。一部用文字为被宏大叙事遗忘、从未僭越逾矩却被零容错体制逼入绝境的底层普通人所立的沉重纪念碑。
+这是一个开源、双线叙事、写实主义的地缘政治心理悬疑小说项目。一部用文字为被宏大叙事遗忘、从未企图逾矩却被“无妄之灾”与零容错体制逼入绝境的底层普通人所立的沉重纪念碑。
 
 ---
 
 ## English Version (英文部分)
 
 ### I. Core Project Tone (Locked)
-* **The Essence of Escape**: This is not a story of rebellion, political subversion, or Hollywood-style espionage. It is an act of passive self-preservation and self-exile by innocent, grassroots citizens. The characters are pious, law-abiding, and deeply respectful of their traditional faith. They are pushed into an abyss purely by the arbitrary amplification of secular administrative power and zero-tolerance social regulation.
-* **Literary Texture**: Restrained, gritty, and profoundly realist. No cinematic power-ups, no instant gratification, and no black-and-white moral simplifications. It utilizes the crushing weight of mundane daily oppressions to build an absolute justification for flight.
+* **The Essence of Escape (Driven to the Brink)**: This is a modern-day tale of being "driven to join the outlaws" (逼上梁山). It is not a story of romantic rebellion or Hollywood-style espionage. The characters are pious, law-abiding, and deeply traditional citizens who never sought to break any rules. They are forced into self-exile strictly because an unpredictable "unprovoked disaster" (无妄之灾) strips away their survival, dignity, and safety, leaving flight as their sole alternative to systemic destruction.
+* **Literary Texture**: Restrained, gritty, and profoundly realist. No cinematic power-ups, no black-and-white moral simplifications. It utilizes the crushing weight of mundane daily oppressions and arbitrary systemic malice to build an absolute justification for flight.
 
 ### II. Core Characters & Escape Motives (100% Logical Closure)
 
 #### 1. Amir | Southern Suburb Auto-Mechanic & Taciturn Leader
-* **Character Profile**: A skilled technician from the impoverished southern fringes of Shiraz. Orphaned at a young age, he was raised entirely by his elder sister and brother-in-law, who exhausted their meager resources for him. Driven by a profound sense of dignity and a desire to alleviate the financial and systemic burdens on his sister's household, he relocated to a dark, southern garage to live in absolute independence upon reaching adulthood. He is silent, resilient, and meticulously analytical.
-* **Mundane Oppression**: Endures endless wage theft, arbitrary municipal levies, and constant semi-starvation, surviving strictly on basic *lavash* bread and sour yogurt.
-* **The Breaking Point**: Amir witnesses peaceful neighbors ruined by arbitrary neighborly snitching and minor lifestyle oversights. Realizing that perfect obedience offers no shield under a system of collective punishment and random retroactive accountability, he chooses self-exile to permanently insulate his sister's family from potential ruin.
-* **The Ultimate Sacrifice**: On the eve of his escape, Amir secretly leaves all the savings he painstakingly scraped together from his grueling labor hidden under the rug of his sister's house. He flees virtually empty-handed, with zero travel funds, purely to cut off any potential systemic risks from his family. This extreme poverty directly drives the agonizing survival conflicts throughout the journey.
-* **Skill / Humanity Highlight**: Possesses an extraordinary, tactile "blind-repair" intuition developed from decades in pitch-black garages. In moments of absolute survival crisis, his lifetime of manual labor transforms into an absolute psychological fortitude to bear the physical and emotional weight of the group.
+* **Character Profile**: A skilled technician from the impoverished southern fringes of Shiraz. Orphaned at a young age, he was raised entirely by his elder sister and brother-in-law, who exhausted their meager resources for him. Driven by a profound sense of dignity and a desire to alleviate the burdens on his sister's household, he relocated to a dark garage to live in absolute independence upon reaching adulthood. He is silent, resilient, and meticulously analytical.
+* **The Unprovoked Disaster (无妄之灾)**: Amir merely performs routine, perfectly legal maintenance on the truck of a regular customer—a mundane bazaar merchant. Days later, the merchant is suddenly arrested under arbitrary political allegations. In a zero-tolerance system rushing to demonstrate authority, security forces discover Amir’s repair receipt and flag him as an "accomplice who provided transit assistance." 
+* **The Breaking Point**: Returning from work, Amir spots the unmarked vehicles of the secret police waiting outside his sister's apartment. Realizing that his presence will instantly drag his adoptive family into a system of collective punishment and retroactive accountability, he chooses to vanish into the night instantly.
+* **The Ultimate Sacrifice**: Before cutting ties, Amir sneaks back and leaves all the hard-earned savings he scraped together from years of grueling labor hidden under the rug of his sister's house. He flees virtually empty-handed, with zero travel funds, ensuring his family is insulated from his risk while giving them a final means of survival.
 
 #### 2. Hassan | Bazaar Mobile Vendor & Street-Smart Navigator
 * **Character Profile**: Born in the ancient quarters of the Shiraz Grand Bazaar. Lacking formal education, he survives on sharp wits, cynical humor, and a deep understanding of grassroots human nature and regulatory loopholes.
-* **Mundane Oppression**: Faces routine extortion of his meager goods, heavy fines without cause, and constant bureaucratic harassment, spending most of his daily income simply bribing low-level inspectors.
-* **The Breaking Point**: His sole dream is to marry his childhood sweetheart. However, he watches a perfectly compliant fellow vendor get permanently blacklisted and socially ruined over a petty, fabricated bureaucratic infraction, destroying the man's family and engagement. Realizing that the fate of the poor is never determined by right or wrong, Hassan cuts off his own engagement—willingly bearing the stigma of a "heartless deserter"—and flees to ensure the woman he loves is never dragged down by his inevitable systemic risks.
-* **Skill / Humanity Highlight**: Master of psychological manipulation and street-level negotiation. He can de-escalate a lethal security checkpoint check into a shared grumble about high inflation, using cynical humor as a shield to preserve the group’s morale in the darkest hours.
+* **The Unprovoked Disaster (无妄之灾)**: Hassan painstakingly scrapes together enough money to secure a permanent, prime stall in the Bazaar, planning to use it to finalize his marriage proposal to his childhood sweetheart. However, a corrupt administrative official eyes the exact same stall for a well-connected relative. To clear the spot, the official plants contraband, banned pamphlets into Hassan’s mobile cart during a routine sweep.
+* **The Breaking Point**: Framed overnight, Hassan's hard-earned life savings are confiscated as "illegal goods," and his engagement is forcefully severed by his fiancée's family for survival. Facing imminent imprisonment for a crime he didn't commit, Hassan utilizes his deep knowledge of the Bazaar's secret alleys to break away during transit. He is forced into flight as a hunted fugitive; for him, staying means the slow death of a systemic dungeon.
 
 #### 3. Zahra | Public School Teacher & Gentle Awakened Soul
 * **Character Profile**: A highly educated local intellectual, deeply pious, meticulously compliant, and profoundly dedicated to her students and elderly parents. She possesses a gentle nature but an unyielding moral spine.
-* **Mundane Oppression**: Trapped in a highly restrictive public school system where female educators face zero room for error regarding speech, dress code, and curriculum, with zero channels for self-defense against administrative malpractice.
-* **The Breaking Point**: To project hierarchical power and authority, a superior deliberately frames Zahra for an operational oversight. She is publicly censured, stripped of her salary, and her professional file is permanently tarnished. Knowing that her systemic ruin will inevitably lead to relentless community interrogation and harassment of her elderly parents, she realizes her lifelong compliance cannot buy dignity, forcing her to abandon her beloved homeland.
-* **Skill / Humanity Highlight**: An expert in local geography and classical poetry. When modern navigation fails in the wilderness, she maps a safe route across the trackless Zagros mountains using geological patterns and astronomical metaphors embedded in ancient Persian literature.
+* **The Unprovoked Disaster (无妄之灾)**: A senior public school inspector launches a sudden, high-profile ideological sweep, desperately needing a "negative example" to punish publicly to secure his own hierarchical promotion and demonstrate absolute authority. During the audit, Zahra is flagged simply because she failed to redact a student's personal diary entry that innocently quoted a classical poem with subtle secular undertones.
+* **The Breaking Point**: Despite her lifetime of flawless compliance, she is publicly denounced, stripped of her credentials, and her professional file is permanently tarnished. The system mandates "daily community interrogations" that extend to her aging parents. Knowing that this continuous, public humiliation will systematically drain the remaining dignity and life from her fragile parents, her unyielding pride refuses to let her kneel and confess to a fabricated sin. Flight becomes her ultimate act of preserving human dignity.
 
 ### III. Four-Volume 22-Chapter Master Outline
 
 #### Volume I: The Walled City · Shiraz Grey Cage (Chapters 1–5)
-* **Volume Core**: Three distinct lives, one identical systemic entrapment. The narrative begins directly in the breathless tension of the border zone (*Present Timeline*), while the crushing daily injustices that forced their flight are peeled back layer by layer through high-intensity psychological flashbacks (*Past Timeline*).
+* **Volume Core**: Three distinct lives, one identical systemic entrapment. The narrative begins directly in the breathless tension of the border zone (*Present Timeline*), while the "unprovoked disasters" that forced their flight are peeled back layer by layer through high-intensity psychological flashbacks (*Past Timeline*).
 * **Chapter 1: Green Light, Jagged Rocks, and the Trapped Chador**: Deep night in the southern border buffer zone. Military night-vision beams sweep the rocks; Zahra’s chador catches on barbed wire. Amir and Hassan have their first fierce, whispered conflict over whether to advance or retreat.
-* **Chapter 2: The Slow Death of the Southern Forge**: As patrol motorcycle engines approach, Amir experiences an echo of the furnace in Shiraz, remembering the innocent neighbor broken by a single casual remark.
-* **Chapter 3: The Covenant of the Half-Eaten Lavash**: A stray dog threatens to alert a patrol. Hassan uses his last piece of dried lavash bread to draw it away, flashing back to his desperate decision to sever his engagement.
-* **Chapter 4: The Silent Sit-In of the Censured**: Sheltering from a freezing border rain storm, Zahra stares at her frozen fingers, flashing back to her final day at the academy when her unyielding dignity fell victim to administrative malice.
-* **Chapter 5: Midnight Convergence in the Old Quarter (First Major Climax)**: A sudden, city-wide midnight raid forces a collision. Amir (who has secretly repaired a smuggler's broken truck), Hassan (who discovered the plot via bazaar rumors and blackmailed his way in using a local checkpoint pass), and Zahra (smuggled out at the final second) form a survival pact born entirely out of pragmatism, mutual suspicion, and absolute necessity.
+* **Chapter 2: The Shadow of the Black Car**: As patrol motorcycle engines approach, Amir experiences an echo of the furnace in Shiraz, remembering the suffocating moment he saw the secret police vehicles outside his sister's house and had to turn away without a word.
+* **Chapter 3: The Frame-up of the Mobile Cart**: A stray dog threatens to alert a patrol. Hassan uses his last piece of dried bread to draw it away, flashing back to the corrupt official planting contraband in his cart and destroying his life's dream.
+* **Chapter 4: The Silent Sit-In of the Censured**: Sheltering from a freezing border rain storm, Zahra stares at her frozen fingers, flashing back to the inspector's ruthless interrogation and her decision to choose exile over watching her parents' dignity be slowly erased.
+* **Chapter 5: Midnight Convergence in the Old Quarter (First Major Climax)**: A sudden, city-wide midnight raid forces a collision. Amir (who has secretly repaired a smuggler's broken truck), Hassan (on the run from transit custody), and Zahra (smuggled out at the final second) form a survival pact born entirely out of necessity. Recognizing Zahra as the teacher who once protected his sister's children, Amir breaks his own protocol to pull her onto the vehicle.
 
 #### Volume II: Urban Breakthrough · Low-Altitude Flight (Chapters 6–10)
 * **Volume Core**: The escape team leaves Shiraz. No heroic skirmishes, only the raw reality of hiding, hunger, and low-profile survival through grassroots checkpoints.
-* **Chapter 6: Engine Failure and Blind Engineering**: The truck dies in a dark field. Due to Amir's absolute lack of funds and tools, he must execute a pitch-black, toolless repair by absolute touch and smell while patrol lights approach.
+* **Chapter 6: Engine Failure and Blind Engineering**: The truck dies in a dark field. Due to Amir's absolute lack of funds and tools (having left everything for his sister), he must execute a pitch-black, toolless repair by absolute touch and smell while patrol lights approach.
 * **Chapter 7: The Art of Bazaar Deception**: Confronted by suspicious low-level conscripts, Hassan utilizes his deep understanding of working-class struggles to defuse a political interrogation into a shared complaint about the economy.
 * **Chapter 8: The Collective Punishment Alarm**: Hearing their names broadcasted on a village radio, Amir makes the executive call to ditch and destroy the truck, forcing the team into the trackless wilderness on foot.
 * **Chapter 9: The Rationing of Lavash**: As resources dwindle, Hassan secretly hoards a handful of dried dates. A fierce internal conflict erupts regarding survival egoism versus Zahra’s structural morality.
@@ -75,49 +72,46 @@ An open-source, dual-line, realist psychological thriller. A literary monument d
 ## 中文部分 (Chinese Version)
 
 ### 一、 全书核心定调（永久锁死）
-* **逃亡本质**：无战火的无声禁锢，无过错的普通人被逼绝境。三人皆虔诚守礼、安分合规、从未叛逆逾矩，无任何主观过错，却被人为扭曲、层层加码的世俗行政权力与零容错社会规训步步逼至绝境。这不是好莱坞式的政治反叛或特工爽文，而是底层无辜民众为了生存而进行的被动自保与自我流放。
+* **逃亡本质（逼上梁山）**：这是一出绝境之下的“林冲雪夜上梁山”。三人皆虔诚守礼、安分合规、从未有过任何叛逆或逾矩的念头。促使他们逃亡的唯一原因，是如同瘟疫般毫无预警降临在头上的“无妄之灾”（体制立威的无差别碾压、基层邀功的栽赃、无端株连的连坐）。留下来意味着肉体或做人尊严的彻底覆灭，出逃是沦为天涯沦落人后的唯一活路。
 * **文风质感**：写实克制、无热血、无爽感、无戏剧化开挂，以日常细碎压迫铺垫绝境，人性灰度真实，留白高级，适配国际写实文学审美。
 
 ### 二、 核心人物终极人设&出逃动机（100%逻辑闭环）
 
 #### 1. 阿米尔｜南郊汽修匠人·隐忍决策者（团队主心骨）
 * **人设底色**：设拉子南郊底层匠人。自幼父母双亡，由长姐与姐夫含辛茹苦抚养成人。成年后，因骨子里的尊严及不愿再给姐姐家庭增加任何经济与生存负担，他毅然选择搬离，在南郊黑车间独立谋生、自我承重。性格沉默隐忍、心思缜密冷静。
-* **日常压迫**：常年遭遇薪资克扣与杂费盘剥，生活极度清贫，三餐仅靠底层标配拉瓦什馕与酸乳度日，常年半饥半饱。
-* **出逃核心动机**：亲眼目睹多名安分守己的邻里仅因细微生活疏漏或随口市井闲话，便遭遇连坐追责、彻底掐死生计。彻底认清在此地“安分无自保、隐忍无安稳”的残酷现实。为了保护对自己有天大恩情、安分守己的姐姐一家不被自己的未知系统风险连坐，他选择自我流放。
-* **极致细节（净身出户）**：出逃前夕，阿米尔将自己长年从牙缝中抠出的微薄积蓄悉数悄悄留在了姐姐家茶几的地毯下。他自己几乎净身出户、未带分文旅费，纯为给家族斩断风险。这一举动直接导致了后续逃亡途中队伍物资极度赤贫、死磕生存极限的必然逻辑。
-* **技能/人性闪光点**：常年黑车间劳作练就了完全凭借手指触觉与嗅觉在全黑状态下进行汽修的“盲修”绝活。在极致高压的生存危机中，他将底层的“承重”化为最坚韧的肉体与精神长城。
+* **无妄之灾（无端连坐）**：阿米尔在车间里，仅仅是合规地帮一位常来修车的老客户（大巴扎的普通商贩）保养了卡车。几天后，该商贩突然因莫须有的罪名被秘密逮捕。在“零容错加码”的清查中，基层办案人员发现了阿米尔的修车收据，直接将他定性为“提供出逃工具的同谋嫌疑人”。
+* **出逃核心动机**：下班回家的阿米尔，远远望见长姐家楼下停着秘密警察的黑车。他甚至连进屋道别的机会都没有，深知零容错体制下，自己一旦被捕必然连累有大恩的姐姐全家。为了彻底切断株连风险，他只能在深夜穿着沾满油墨的工作服，决然反向逃入黑夜。
+* **极致细节（净身出户）**：在切断联系的最后关头，他设法将自己长年从牙缝中抠出的微薄积蓄，悉数悄悄死死塞在了姐姐家茶几的地毯下。他自己未带分文旅费，几乎赤贫跨入荒原，这一举动不仅纯净化了他的动机，也直接导致了后续逃亡途中物资极度赤贫、死磕生存极限的必然逻辑。
 
 #### 2. 哈桑｜巴扎流动摊贩·市井生存担当（团队活络者）
 * **人设底色**：自幼混迹大巴扎底层，无固定居所。天性活络通透、嘴贫心软，深谙市井漏洞、盘查心理与人情冷暖。
-* **日常压迫**：常态化遭遇税费盘剥、巡查刁难、货品被扣，辛辛苦苦大半收入用于打点认罚，在底层夹缝卑微求生。
-* **出逃核心动机**：毕生执念是攒钱娶青梅竹马的未婚妻。然而目睹一名全程合规的同行小贩被无端规则钉上终身污点、婚约作废、全家蒙羞。他看透了底层命运随时可能被无端摧毁的真相，为了不让自己的未知风险拖累挚爱一生，他主动背负“负心汉”骂名斩断婚约，独自踏上逃亡之路。
-* **技能/人性闪光点**：拥有极强的人性洞察力与市井话术，擅长将致命的政治核查降维成底层老百姓对物价和生活的诉求共鸣。他的活络与油滑，是团队在冰冷绝境中唯一的温度与铠甲。
+* **无妄之灾（怀璧其罪）**：哈桑长年倒腾货物，好不容易凑够了钱，准备盘下大巴扎一个固定的黄金摊位，以此去未婚妻家提亲。但他做梦也没想到，巴扎管理处一个有背景的副主管看中了这个位置想安插亲戚。为了赶走哈桑，主管指使人在例行检查时，故意往哈桑的流动货担里塞了一卷带有违禁标记的境外走私传单。
+* **出逃核心动机**：哈桑的血汗积蓄当场被作为“赃款”没收，还要面临数年的牢狱之灾，未婚妻家也在重压下被迫与他断绝关系。在被押解移交的前夕，哈桑利用自己对大巴扎暗道的熟悉侥幸逃脱。不逃就是死牢，他被迫从一个只想安稳成家的老实人，变成了被全城通缉的亡命徒。
 
 #### 3. 扎赫拉｜公立女教师·温柔觉醒者（团队情感内核）
 * **人设底色**：本土高知女性，虔诚守礼、言行极其谨小慎微。敬畏教师职业，善待学生，孝顺父母，温柔且有傲骨。
-* **日常压迫**：校园管控严苛，女性从业者容错率极低，言行、课堂、着装全程受限，且基层从业者无任何自我申辩渠道。
-* **出逃核心动机**：遭遇上级督导纯粹为了立威揽权的无端刻意甩锅构陷，校内公开通报，从业档案留下永久不可逆污点。深知女性零容错规则下，个人冤案必然连累年迈父母遭受邻里非议与社区约谈。万般隐忍换不来公正，内心绝望断念，被迫割舍育人初心与故土。
-* **技能/人性闪光点**：作为历史与地理教师，在无现代导航设备的荒原和山脉中，她巧妙利用古波斯诗歌中对山川星座的隐喻描写与地质风化规律，手绘制出规避天险的生存路线。知识在这一刻成了拯救底层的北极星。
+* **无妄之灾（杀鸡儆猴）**：公立学校的上级高级督导为了在全区树立“绝对意识形态权威”，展开了一场无预警的突击整顿。督导急需抓一个“反面典型”来杀鸡儆猴、向上邀功。在调阅学生作业时，督导抓住了一个学生在日记里无心引用的一句带有轻微世俗倾向的古诗，而任课教师扎赫拉因“未及时纠偏涂抹”，被直接定性为“严重思想失职”。
+* **出逃核心动机**：长年的优秀与服从在权力的无差别碾压面前形同虚设。她被公开开除、通报，从业档案留下永久不可逆污点。体制更对她和年迈父母启动了“每日社区约谈”。扎赫拉深知，这种无休止的公开羞辱会像水蛭一样吸干父母最后的尊严与生命，而她的傲骨让她绝不跪下承认莫须有的罪名。走，成了她保留做人尊严的唯一方式。
 
-### 三、 四卷22章完整剧情大纲
+### 三、 四卷 22 章完整剧情大纲
 
-#### 第一卷 围城·设拉子灰牢（第1-5章）
-* **卷核**：三座人生，同一种绝境。小说直接从逃亡最后阶段的边境缓冲区开场（*明线·现在时*），通过三人在绝境伏击线上的紧绷窒息，抽丝剥茧地通过高强度心理闪回，回溯他们在设拉子被逼无奈的最后一天（*暗线·过去时*）。
+#### 第一卷 围城·设拉子灰牢（第 1-5 章）
+* **卷核**：三座人生，同一种绝境。小说直接从逃亡最后阶段的边境缓冲区开场（*明线·现在时*），通过三人在绝境伏击线上的紧绷窒息，抽丝剥茧地通过高强度心理闪回，回溯他们在设拉子遭遇无妄之灾、被逼无奈的最后一天（*暗线·过去时*）。
 * **Chapter 1 南郊灰土，铁铺无声（明线开场）**：深夜，南部边境缓冲区。军警夜视仪的绿光扫过乱石堆，扎赫拉的头巾被铁丝网挂住。阿米尔和哈桑在泥泞中产生第一次关于“进退”的极低声争吵。
-* **Chapter 2 摩托轰鸣与慢性死亡（暗线：阿米尔）**：边境巡逻队的摩托车声逼近。阿米尔在耳鸣中闪回设拉子南郊铁铺的炉火，以及那个因为一句市井闲话全家惨遭连坐的无辜邻居。
-* **Chapter 3 半块拉瓦什馕的保密协议（暗线：哈桑）**：荒野中突然出现可能引来军警的流浪狗，哈桑用仅存的半块拉瓦什馕将其引开。闪回他在大巴扎卑微求生、以及为了不拖累未婚妻主动斩断婚约的决绝。
-* **Chapter 4 校园清寂，蒙冤失语（暗线：扎赫拉）**：边境降下暴雨，扎赫拉摸着被冻得僵硬的手指，闪回她作为女教师的最后一天，面对督导恶意构陷、档案留下永久污点时的静坐与死心。
-* **Chapter 5 全城封控，陌路相逢（一阶小高潮·三线合流）**：设拉子深夜全域突发清查。阿米尔（暗中帮蛇头修好破卡车换得出逃机会）、哈桑（通过市井眼线得知消息并用卡点通行证要挟搭车）、扎赫拉（在被收缴护照前最后一刻被拉上车）在死巷相遇。由于扎赫拉曾对阿米尔长姐一家有恩，阿米尔决定冒险带她上车。三人基于资源的交换、恩情与自保被迫绑定。
+* **Chapter 2 街角黑车的阴影（暗线：阿米尔）**：边境巡逻队的摩托车声逼近。阿米尔在耳鸣中闪回设拉子深夜，自己远远望见长姐家门前的秘密警察黑车、被迫在阴影中含泪转身的窒息瞬间。
+* **Chapter 3 货担里的违禁传单（暗线：哈桑）**：荒野中突然出现可能引来军警的流浪狗，哈桑用仅存的半块拉瓦什馕将其引开。闪回管理处主管在巴扎搜出栽赃传单、自己被迫在暗道中赌命逃亡的决绝。
+* **Chapter 4 讲台清寂，傲骨死心（暗线：扎赫拉）**：边境降下暴雨，扎赫拉摸着被冻得僵硬的手指，闪回督导在办公室的恶意构陷，以及为了不让父母尊严被约谈耗尽、自己死心断念的黄昏。
+* **Chapter 5 全城封控，陌路相逢（一阶小高潮·三线合流）**：设拉子深夜全域突发大清查。阿米尔（帮蛇头修好卡车换得出逃机会）、哈桑（逃脱看守遭遇通缉）、扎赫拉（在被收缴护照前最后一刻出逃）在死巷相遇。因认出扎赫拉是曾保护过长姐家孩子的恩师，阿米尔打破自保原则将她拉上车。三人基于资源的交换、恩情与生存本能被迫绑定。
 
-#### 第二卷 市井突围·土路逃生（第6-10章）
+#### 第二卷 市井突围·土路逃生（第 6-10 章）
 * **卷核**：脱离城区，低空潜行。无英雄主义逆袭，只有普通人的躲藏、饥饿与周旋，信任在泥泞与盘查中不断发生摩擦。
-* **Chapter 6 卡车抛锚与“盲修”技术**：卡车在城郊破旧农田旁彻底抛锚。因阿米尔身上未带分文，无任何工具，他必须全凭手感盲操作修复发动机，而远处卡点的巡查灯正在一节节逼近。
+* **Chapter 6 卡车抛锚与“盲修”技术**：卡车在城郊破旧农田旁彻底抛锚。因阿米尔身上未带分文（钱全留给了姐姐），且毫无专业工具，他必须全凭手感盲操作修复发动机，而远处卡点的巡查灯正在一节节逼近。
 * **Chapter 7 话术谋生，虚与周旋**：卡点军警起疑。哈桑发挥巴扎摊贩的心理战术，用粗鄙的家乡方言抱怨高物价，将政治核查成功降维成底层人情共鸣，惊险过关。
 * **Chapter 8 村路哨卡，咫尺惊魂**：村落广播里通报了设拉子出逃名单。阿米尔冷静决策，果断放弃土路，将卡车推入沟壑彻底弃车，全员步行切入扎格罗斯山脉。
 * **Chapter 9 野地歇脚，浅问初心**：物资开始紧缺，哈桑因市井习性偷藏枣干被阿米尔发现。团队内部爆发关于生存自私与扎赫拉式道德底线的激烈摩擦。
 * **Chapter 10 辞别城郭，远山在望**：彻底脱离设拉子城区痕迹，前方是庞大、荒凉、死寂的扎格罗斯山脉无人古道。他们告别人造规则，一脚踩进自然的生死淘汰赛。
 
-#### 第三卷 天险穿行·山河砺人（第11-16章）
+#### 第三卷 天险穿行·山河砺人（第 11-16 章）
 * **卷核**：坠入自然天险绝境，苦难剥离阶层与性别偏见，在泥泞中彻底固化三人的生死交托。
 * **Chapter 11 山风裂谷，古道无人**：深入废弃古道，极度的孤独与寒冷将三人裹挟。扎赫拉体能达到极限却咬牙挺住，赢得了阿米尔的绝对尊重。
 * **Chapter 12 乱石藏形，屏息避搜（二阶中段大高潮）**：遭遇山区流动军警和搜救犬近距离核查。三人挤在满是尖石的缝隙里贴身潜伏，军警皮鞋就在哈桑脸边。扎赫拉小腿被尖石扎穿血流不止，她死死咬住脏抹布，抠出血指印，全程未发一声。
@@ -126,14 +120,14 @@ An open-source, dual-line, realist psychological thriller. A literary monument d
 * **Chapter 15 绝境分食，患难知心**：浩荡长风吹过戈壁，荡涤了曾经在设拉子巴扎和铁铺里斤斤计较的市井委屈，三人认知完成升华。
 * **Chapter 16 天地苍茫，梦归故城**：极寒之夜三人靠在一起取暖。梦里全是设拉子的热红茶与铁铺烟火，醒来唯有关山难越，悲情底色彻底落地。
 
-#### 第四卷 边境终局·取舍浮生（第17-22章）
+#### 第四卷 边境终局·取舍浮生（第 17-22 章）
 * **卷核**：自由从不是廉价的爽文赏赐，它是用故土、至亲、以及无法回头的余生换来的沉重钝痛。
 * **Chapter 17 边界缓冲区，暗流密布**：抵达南部边境管控线。前方是红外夜视、流动哨所与密集的无人机巡逻。阿米尔利用自己对信号和地形盲区的精细推算，画出唯一的赌命路线。
 * **Chapter 18 最后口粮，最后乡愁**：物资彻底清零，他们分享了捡到的废弃硬面饼。阿米尔在黑暗中对哈桑坦白了他此生最放不下的执念：他不知道自己藏在地毯下的血汗钱，够不够姐姐给孩子买几个月的平价面饼。
 * **Chapter 19 暗夜闯关，赌命咫尺（全书终极大高潮）**：暴雨夜极限闯关。阿米尔为了推同伴一把，用自己的亲生血肉之躯死死撑住正在塌落、满是倒钩的铁丝网，肩膀被倒刺撕开暴烈伤口。
 * **Chapter 20 界线两分，人生两路（思想终极高潮）**：在踏上国境线的一瞬间，命运发生极致错位——一向活络、最想攒钱成家的哈桑在回望故土微光时突然心理崩溃。他发现自己无法忍受一辈子做异乡没有根的孤魂，拒绝跨过边界，选择留下来面对未知的严惩。
 * **Chapter 21 头也不回的温柔**：而那个曾经最谨小慎微、毕生只想平淡教书的女教师扎赫拉，却展现出最不可折断的傲骨。她拉着受重伤的阿米尔，头也不回地跨过了那条分界线。
-* **Chapter 22 故土难舍，风月留白（终章结局）**：灰度克制收尾。没有胜利与光芒，扎赫拉 and 阿米尔站在异国他乡冰冷、陌生的土地上。语言不通，伤口发炎，异乡的风里没有设拉子玫瑰与红茶的香气。他们自由了，但也彻底成为了没有根的“无声流放者”。
+* **Chapter 22 故土难舍，风月留白（终章结局）**：灰度克制收尾。没有胜利与光芒，扎赫拉和阿米尔站在异国他乡冰冷、陌生的土地上。语言不通，伤口发炎，异乡的风里没有设拉子玫瑰与红茶的香气。他们自由了，但也彻底成为了没有根的“无声流放者”。
 
 ---
 
@@ -141,4 +135,3 @@ An open-source, dual-line, realist psychological thriller. A literary monument d
 1. **Zero AI Policy (拒绝AI水文)**: All submissions must be entirely written by humans. (严禁AI批量灌水)。
 2. **Zero Hollywood Tropes (拒绝戏剧化开挂)**: Characters survive strictly on the extensions of their daily mundane trades. (没有超级英雄，人物只能依靠日常谋生技能变型来求生)。
 3. **Respect for Faith (尊重信仰内核)**: Characters always maintain a deep reverence for their religious faith. (人物全程虔诚敬畏正统信仰，仅困惑被人为扭曲、层层加码的世俗行政乱象)。
-4. 
